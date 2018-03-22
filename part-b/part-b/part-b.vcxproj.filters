@@ -33,4 +33,12 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="fshader36.glsl">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="vshader36.glsl">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
 </Project>

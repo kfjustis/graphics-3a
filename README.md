@@ -10,6 +10,7 @@ the following commands...
     vcpkg install glew
     vcpkg install glfw3
     vcpkg install opengl
+    vcpkg install glm
     vcpkg integrate install
 
 Now, all of the necessary libraries are installed and will be automatically
